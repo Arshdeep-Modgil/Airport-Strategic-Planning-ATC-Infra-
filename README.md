@@ -36,5 +36,5 @@ This project is licensed under the [MIT License](./LICENSE). Feel free to use th
 
 ## Contact
 For any queries or discussions about this presentation:
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email**: [Your Email Address](mailto:your-email@example.com)
+- **LinkedIn**: [Yo LinkedIn Profile](https://www.linkedin.com/in/arshdeep-modgil)
+- **Email**: [Yo Email Address](modgilarsh27novem@gmail.com)
