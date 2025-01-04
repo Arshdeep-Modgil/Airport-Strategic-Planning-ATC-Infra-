@@ -37,4 +37,4 @@ This project is licensed under the [MIT License](./LICENSE). Feel free to use th
 ## Contact
 For any queries or discussions about this presentation:
 - **LinkedIn**: [Arshdeep Modgil](https://www.linkedin.com/in/arshdeep-modgil)
-- **Email**: [Gmail]( modgilarsh27novem@gmail.com )
+- [Email me](mailto: modgilarsh27novem@gmail.com)
